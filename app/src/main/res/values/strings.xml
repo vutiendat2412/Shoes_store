@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roger.Shoes</string>
+    <string name="title_item_navigation1">Shoes</string>
+    <string name="title_item_navigation2">Accessories</string>
+    <string name="title_item_navigation3">Home</string>
+    <string name="title_item_navigation4">News</string>
+    <string name="title_item_navigation5">Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot password</string>
+</resources>

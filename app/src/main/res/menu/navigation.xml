@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Shoes"
+        android:icon="@drawable/shoes1"
+        android:title="@string/title_item_navigation1" />
+
+    <item
+        android:id="@+id/navigation_Accessories"
+        android:icon="@drawable/shoe_brush1_50px"
+        android:title="@string/title_item_navigation2" />
+
+    <item
+        android:id="@+id/navigation_Home"
+        android:icon="@drawable/ic_home_black_48dp"
+        android:title="@string/title_item_navigation3"
+        />
+    <item
+        android:id="@+id/navigation_News"
+        android:icon="@drawable/news_50px"
+        android:title="@string/title_item_navigation4" />
+    <item
+        android:id="@+id/navigation_Account"
+        android:icon="@drawable/ic_account_box_light_blue_600_24dp"
+        android:title="@string/title_item_navigation5" />
+
+</menu>
