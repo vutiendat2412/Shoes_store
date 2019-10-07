@@ -8,7 +8,7 @@
     android:background="#273968"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context=".LoginActivity">
+    tools:context=".ui.activity.LoginActivity">
 
     <ImageView
         android:layout_width="wrap_content"
@@ -44,7 +44,10 @@
             android:background="#ffffff"
             android:drawableLeft="@drawable/password_50px"
             android:gravity="center"
+            android:ems="10"
+            android:inputType="textPassword"
             android:hint="@string/password" />
+
     </LinearLayout>
 
     <Button
